@@ -1,0 +1,56 @@
+.Home {
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+}
+
+.title {
+    color: #A5FFEE;
+    text-align: center;
+    font-size: 2em;
+}
+
+.title span {
+    background: -webkit-linear-gradient(white, #38495a);
+    -webkit-text-fill-color: transparent;
+}
+
+.content {
+    color: white;
+    font-size: 1.2em;
+}
+
+.links {
+    color: white;
+    font-size: 1.2em;
+}
+
+.links a {
+    color: #A5FFEE;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+}
+
+.contact_icon {
+    color: #A5FFEE;
+    object-fit: cover;
+    font-size: 60px;
+    margin: 20px;
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+.contact_icon:hover {
+    -webkit-transform: scale(1.20);
+}

@@ -1,0 +1,40 @@
+.Header {
+    background-color: #0f0f0f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_ul {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 40%;
+}
+
+ul li {
+    margin: 20px;
+    font-size: 2vh;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul li a:hover {
+    color: #A5FFEE;
+}
+
+.logo {
+    object-fit: cover;
+    width: 50%;
+}
+
+@media (max-width: 420px) {
+    .header_ul {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+
+}

@@ -1,0 +1,41 @@
+.Footer {
+    background-color: rgb(15, 15, 15);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.logo {
+    width: 8vw;
+    object-fit: cover;
+}
+
+.text {
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+}
+
+.contact_icon {
+    color: #A5FFEE;
+    font-size: 35px;
+    width: 35px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+@media (max-width: 820px) {
+
+
+    .text {
+        font-size: 12px;
+    }
+}

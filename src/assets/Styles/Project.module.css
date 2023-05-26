@@ -1,0 +1,69 @@
+.card {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.603);
+    margin: 20px;
+    width: 700px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    color: #A5FFEE;
+    text-transform: uppercase;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.functions_title {
+    font-size: 13px;
+    color: #A5FFEE;
+    margin: 0;
+    text-decoration: underline;
+}
+
+.functions_list {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.functions {
+    color: white;
+    font-size: 13px;
+    list-style-type: none;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.techno {
+    color: #A5FFEE;
+    font-style: italic;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon {
+    color: white;
+    font-size: 1.5em;
+}
+
+.icon:hover {
+    color: #A5FFEE;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.images {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 15px;
+    margin: 10px;
+}

@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/cinhpl/portfolio.git/static/css/main.073c9b0a.css",
-    "main.js": "/cinhpl/portfolio.git/static/js/main.44ed4edf.js",
+    "main.css": "/cinhpl/portfolio.git/static/css/main.7e9f9664.css",
+    "main.js": "/cinhpl/portfolio.git/static/js/main.3f32bf1a.js",
+    "static/media/mylibrary.png": "/cinhpl/portfolio.git/static/media/mylibrary.73f2fd665302c6017dc4.png",
+    "static/media/kasa.jpg": "/cinhpl/portfolio.git/static/media/kasa.a6aa689329f75f4206a4.jpg",
+    "static/media/kanap.jpg": "/cinhpl/portfolio.git/static/media/kanap.d51bdf6923409e8db290.jpg",
+    "static/media/booki.jpg": "/cinhpl/portfolio.git/static/media/booki.a96f7005503888235d92.jpg",
+    "static/media/ohmyfood.jpg": "/cinhpl/portfolio.git/static/media/ohmyfood.9eee5964b642706c0e14.jpg",
+    "static/media/piquante.jpg": "/cinhpl/portfolio.git/static/media/piquante.8f66f40c6d0b1c1df517.jpg",
     "index.html": "/cinhpl/portfolio.git/index.html",
-    "main.073c9b0a.css.map": "/cinhpl/portfolio.git/static/css/main.073c9b0a.css.map",
-    "main.44ed4edf.js.map": "/cinhpl/portfolio.git/static/js/main.44ed4edf.js.map"
+    "main.7e9f9664.css.map": "/cinhpl/portfolio.git/static/css/main.7e9f9664.css.map",
+    "main.3f32bf1a.js.map": "/cinhpl/portfolio.git/static/js/main.3f32bf1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.44ed4edf.js"
+    "static/css/main.7e9f9664.css",
+    "static/js/main.3f32bf1a.js"
   ]
 }
